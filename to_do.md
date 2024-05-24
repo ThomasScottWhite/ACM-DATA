@@ -1,69 +1,116 @@
-Lecture 1:
-Introduction to data science, what data their is and what we will be doing
+Week 1: Introduction to Machine Learning
 
-Tabular Data Series:
-Lecture 2:
-Exploratory data analysis with Pandas
+    Overview of Machine Learning (ML)
+        Definitions and applications
+        Types of ML: Supervised, Unsupervised, Semi-supervised, Reinforcement Learning
+    ML Engineering Workflow
+        Problem definition, data collection, preprocessing, model selection, training, evaluation, and deployment
 
-Lecture 3:
-Visual data analysis in Python
+Week 2: Python for Machine Learning
 
-Lecture 4:
-Classification, Decision Trees and k Nearest Neighbors
+    Python Programming Basics
+        Libraries: NumPy, Pandas, Matplotlib, Seaborn
+    Data Handling and Manipulation
+        DataFrames, data cleaning, exploratory data analysis (EDA)
 
-Lecture 5:
-Linear Classification and Regression
+Week 3: Mathematics for Machine Learning
 
-Lecture 6
-Bagging and Random Forest
+    Linear Algebra
+        Vectors, matrices, operations
+    Probability and Statistics
+        Probability distributions, sampling, hypothesis testing
+    Calculus
+        Derivatives and gradients, optimization basics
 
-Lecture 7
-Feature Engineering and Feature Selection
+Week 4: Data Preprocessing
 
-Lecture 8
-Unsupervised Learning: Principal Component Analysis and Clustering
+    Data Cleaning
+        Handling missing values, outliers
+    Feature Engineering
+        Feature scaling, normalization, encoding categorical variables
+    Data Augmentation
 
-Time Series Analysis and Econometrics Series:
+Week 5: Supervised Learning: Regression
 
-Lecture 9
-Forecasting/Time Series Analysis with Python
+    Linear Regression
+        Simple and multiple linear regression, assumptions, model evaluation
+    Regularization Techniques
+        Ridge, Lasso
 
-Lecture 10
-Econometrics
+Week 6: Supervised Learning: Classification
 
-Lecture 11
-Neural Networks:
-NN, CNN, RNN , LSTM, Transformers, Transfer Learning
+    Logistic Regression
+        Binary and multiclass classification, evaluation metrics
+    Decision Trees and Random Forests
+        Concepts, overfitting, pruning
 
-Lecture 12
-Computer Vision
+Week 7: Advanced Supervised Learning
 
-Lecture 13
-Audio Classification
+    Support Vector Machines
+        Kernel methods
+    Gradient Boosting
+        XGBoost, LightGBM, CatBoost
 
-Lecture 14
-Natural Language Processing
+Week 8: Unsupervised Learning
 
-Lecture 15
-Large Language Models
+    Clustering
+        K-means, hierarchical clustering, DBSCAN
+    Dimensionality Reduction
+        PCA, t-SNE
 
-Lecture 16
-Recomendation Systems
+Week 9: Neural Networks and Deep Learning
 
-Lecture 17
-AB Testing
+    Introduction to Neural Networks
+        Perceptron, feedforward neural networks
+    Deep Learning Frameworks
+        TensorFlow, Keras, PyTorch basics
 
-Lecture 18
-SQL
+Week 10: Convolutional Neural Networks (CNNs)
 
-Lecture 19
-S3, AWS etc
+    Architecture of CNNs
+        Convolutional layers, pooling layers
+    Applications
+        Image classification, object detection
 
-Lecture 20
-Labeling software
+Week 11: Recurrent Neural Networks (RNNs) and Sequence Models
 
-Lecture 21
-Gradient Bosting
+    RNNs
+        LSTM, GRU
+    Applications
+        Time series forecasting, natural language processing (NLP)
 
-Lecture 22
-MLOPs
+Week 12: Reinforcement Learning
+
+    Fundamentals
+        Markov Decision Processes, Q-learning, Deep Q-Networks
+    Applications
+        Game playing, robotics
+
+Week 13: Model Evaluation and Tuning
+
+    Model Evaluation Metrics
+        Precision, recall, F1-score, ROC-AUC
+    Hyperparameter Tuning
+        Grid search, random search, Bayesian optimization
+    Cross-validation Techniques
+
+Week 14: ML in Production
+
+    Model Deployment
+        Serving models with Flask, FastAPI, or TensorFlow Serving
+    Monitoring and Maintenance
+        Model performance monitoring, A/B testing
+
+Week 15: Capstone Project
+
+    Project Work
+        Students work in teams to solve a real-world problem
+    Presentation and Review
+        Presentations, peer reviews, and feedback
+
+Week 16: Ethics and Future Trends
+
+    Ethics in AI and ML
+        Bias, fairness, transparency
+    Future of Machine Learning
+        Emerging trends, career advice
